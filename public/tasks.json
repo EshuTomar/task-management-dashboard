@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Design Login Page",
+    "description": "Create responsive UI for login screen",
+    "priority": "High",
+    "assignee": "John Doe",
+    "status": "To Do"
+  },
+  {
+    "id": 2,
+    "title": "API Integration",
+    "description": "Connect login API with backend",
+    "priority": "Medium",
+    "assignee": "Jane Smith",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Write Unit Tests",
+    "description": "Add tests for authentication flow",
+    "priority": "Low",
+    "assignee": "Alex Johnson",
+    "status": "Done"
+  },
+  {
+    "id": 4,
+    "title": "Setup Redux Store",
+    "description": "Configure Redux Toolkit store and slices",
+    "priority": "High",
+    "assignee": "Emily Davis",
+    "status": "To Do"
+  },
+  {
+    "id": 5,
+    "title": "Implement Search Filter",
+    "description": "Add search and filter functionality for tasks",
+    "priority": "Medium",
+    "assignee": "Chris Lee",
+    "status": "In Progress"
+  }
+]
